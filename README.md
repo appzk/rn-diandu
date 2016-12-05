@@ -4,7 +4,7 @@
 
 一个ReactNative的项目，需要兼容IOS和Android，采用Antd-mobile组件库。
 
-- [ x ] tabbar布局
+- [x] tabbar布局
 - [ ] 采用redux
 - [ ] 热更新
 - [ ] 优化bundle
